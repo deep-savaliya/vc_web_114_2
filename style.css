@@ -1,13 +1,11 @@
 body {
-    background: url(download\ \(1\).jpeg);
-    background-repeat: no-repeat;
-    background-size: contain;
+    background: #000;
 }
 
 .box {
     width: 400px;
     height: 400px;
     background: rgba(255, 255, 255, 0.1);
-    color: white;
+    color: wheat;
     backdrop-filter: blur;
 }
